@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/config/config.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/core-service/core-service.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/core-service/core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/registry-service/registry-service.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/registry-service/registry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTD-Create-MicroService/registry-service/server.iml" filepath="$PROJECT_DIR$/TTD-Create-MicroService/registry-service/server.iml" />
+    </modules>
+  </component>
+</project>

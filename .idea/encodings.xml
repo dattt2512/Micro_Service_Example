@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/auth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/core-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/core-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/gateway-service2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/gateway-service2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/registry-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TTD-Create-MicroService/registry-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
